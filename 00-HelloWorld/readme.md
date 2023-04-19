@@ -2,11 +2,14 @@
 
 Numero de equipo : 10
 
-• Autores de la resolución: Tomás Fiestas
 ◦ Usuario github: tomasfiestas
+
 ◦ Legajo: 2036198
+
 ◦ Apellido: Fiestas Escubilla
+
 ◦ Nombre: Tomás Federico
+
 • Numero y titulo del trabajo: N°0 , "Hello, World!" en C
 
 ###Enunciado
