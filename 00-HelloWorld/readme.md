@@ -12,8 +12,7 @@ Numero de equipo : 10
 
 • Numero y titulo del trabajo: N°0 , "Hello, World!" en C
 
-###Enunciado
-### "Hello, World!” en C
+### Enunciado: "Hello, World!” en C
 
 **Objetivos**
 
